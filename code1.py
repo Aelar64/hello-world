@@ -8,5 +8,5 @@ while boolean1
 	sleep(0.25)
 	if i > 400
 		boolean1 = False
-	i += 1
+	i++
 print('All done!')
